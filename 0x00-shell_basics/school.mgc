@@ -1,2 +1,2 @@
 #!/bin/bash
-file -m string SCHOOL School data \n ! :mime School
+file -m 0 string SCHOOL School data \n ! :mime School
